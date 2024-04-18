@@ -21,7 +21,7 @@ user.unprivileged: nobody
 internal: 0.0.0.0 port=1080
 
 # The proxying network interface or address.
-external: enp3s0
+external: enp0s7
 
 # socks-rules determine what is proxied through the external interface.
 socksmethod: username
